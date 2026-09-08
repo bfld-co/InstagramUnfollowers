@@ -1,6 +1,1 @@
-node_modules/
-.vscode/
-dist/
-.idea/
 .DS_Store
-bun.lockb
